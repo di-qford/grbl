@@ -1,6 +1,11 @@
 ----------------
 Date: 2020-04-20
 Author: Quinton Ford
+Subject: Enable simultaneous feed hold and safety door inputs
+
+----------------
+Date: 2020-04-20
+Author: Quinton Ford
 Subject: Configure variable spindle with direction and enable outputs
 
 ----------------
